@@ -1,0 +1,10 @@
+This is input to test conversion of simple text to latex format.
+All \_ must be escaped. \_ \_ \_
+Paragraphs should end in the newline command, twice.
+\newline\newline
+
+Here we hit the apostrophe and baktic issue.
+This should be 'easy enough`.
+It`s easy to find things that will cause problems.
+'I`m a little worried it`s things like this will kill it`
+It`s it`s 'it`s it`s` it`s.
